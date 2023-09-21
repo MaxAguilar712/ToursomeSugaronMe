@@ -1,0 +1,15 @@
+h1 {
+    display: flex;
+    justify-content: center;
+    background-color: aqua ;
+}
+.bookings {
+    display: flex;
+    justify-content: center;
+}
+
+.details {
+    display: flex;
+    background-color: bisque;
+    justify-content: space-around;
+}
